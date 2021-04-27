@@ -7,7 +7,7 @@ package primeiro_programa_java;
 
 /**
  *
- * @author Filipe
+ * @author Filipe Rios Mariz Maciel
  */
 public class Primeiro_programa_java {
 
