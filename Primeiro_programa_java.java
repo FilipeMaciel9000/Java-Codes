@@ -2,10 +2,7 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- */
-package primeiro_programa_java; //(1)
-
-/**Comentário documental com Java
+ * Comentário documental com Java
  * @author: Filipe Rios Maciel Maciel
  * Entenda a estrutura do código do seu código Java:
  * 1) Pacotes que serão utilizados durante nossa aplicação Java.
@@ -14,11 +11,10 @@ package primeiro_programa_java; //(1)
  * 4) Comando para escrever algo na tela, pulando uma linha em Java.
 */
 
+package primeiro_programa_java; //(1)
+
 public class Primeiro_programa_java { //(2)
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) { //(3)
         //Seu codigo em java será escrito aqui:
         System.out.println("Olá mundo"); //(4)
