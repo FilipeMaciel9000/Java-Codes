@@ -39,7 +39,7 @@ public class ConversordeTemperatura {
 		final double FATOR = 5.0/9.0;
 		
 		System.out.println("Insira os graus em Fahrenheit\n"
-				+ "Que serão conervtidos para Celsius: ");
+				+ "Que serão convertidos para Celsius: ");
 		try (Scanner scanner = new Scanner(System.in)) { //(2)
 			fahrenheit = scanner.nextDouble();
 		}
