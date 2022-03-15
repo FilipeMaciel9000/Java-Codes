@@ -10,7 +10,7 @@
  * 3) Mostrar o resultado
  * * *
  * @declarations: 
- * Variáveis (São sepre em minúsculas):
+ * Variáveis (São sempre em minúsculas/use CamelCase):
  * c = Para receber o valor em Celsius
  * f = Recebe o valor de Farenheit
  * Constantes (São sempre em maiúsculas):
