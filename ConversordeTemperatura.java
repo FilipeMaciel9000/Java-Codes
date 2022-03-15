@@ -25,6 +25,7 @@
       E atribuindo o valor recebida a variavel fahrenheit.
    3) Realizando o calculo e mostrnado o resultado.
  */
+
 package fundamentos;
 
 import java.util.Scanner; //(1)
