@@ -17,9 +17,9 @@
  * 2) No Eclipse: o atalho para System.out.println(""); é = digitar sysout e apertar ctrl espaço;
  */
 
-package primeiro_programa_java; //(1)
+package primeiroprograma; //(1)
 
-public class Primeiro_Programa_Java { //(2)
+public class PrimeiroPrograma{ //(2)
 
     public static void main(String[] args) { //(3)
         //Seu codigo em java será escrito aqui:
