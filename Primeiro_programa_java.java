@@ -19,7 +19,7 @@
 
 package primeiro_programa_java; //(1)
 
-public class Primeiro_programa_java { //(2)
+public class Primeiro_Programa_Java { //(2)
 
     public static void main(String[] args) { //(3)
         //Seu codigo em java será escrito aqui:
