@@ -19,11 +19,11 @@
  * * *
  * @notes:
  * 1) Java não é como Python; em java precisamos usar.
-      Bibliotecas para receber informações do usuario.
-      por isso usamos import java.util.Scanner;
-   2) Usando a biblioteca.
-      E atribuindo o valor recebida a variavel fahrenheit.
-   3) Realizando o calculo e mostrnado o resultado.
+ *     Bibliotecas para receber informações do usuario.
+ *     por isso usamos import java.util.Scanner;
+ * 2) Usando a biblioteca Scanner.
+ *     E atribuindo o valor recebida a variavel fahrenheit.
+ * 3) Realizando o calculo e mostrnado o resultado.
  */
 
 package fundamentos;
@@ -41,8 +41,8 @@ public class ConversordeTemperatura {
 		
 		System.out.println("Insira os graus em Fahrenheit\n"
 				+ "Que serão convertidos para Celsius: ");
-		try (Scanner scanner = new Scanner(System.in)) { //(2)
-			fahrenheit = scanner.nextDouble();
+		try (Scanner leia = new Scanner(System.in)) { //(2)
+			fahrenheit = leia.nextDouble();
 		}
 		System.out.println("Graus em Fahrenheit: " +fahrenheit+"°F."); //(3)
 		celsius = (fahrenheit - AJUSTE) * FATOR;
