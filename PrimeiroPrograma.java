@@ -1,5 +1,5 @@
 /** Comentário documental com Java
- * @goal: Converte temperaturas de Fahrenheit para Celsius;
+ * @goal: Escrever: Olá mundo!;
  * @author: Filipe Rios Maciel Maciel
  * @date: 21/03/2022
  * * *
