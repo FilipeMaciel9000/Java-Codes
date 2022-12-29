@@ -26,7 +26,7 @@ public class PrimeiroPrograma{ //(2)
         // Toda a logica do codigo aqui:
         System.out.println(">>> Olá mundo!");//(4)
         System.out.println(">>> Pronto já me livrei da maldição do olá mundo");
-        System.out.println(">>> Primeiro progrma em Java feito com sucesso");
+        System.out.println(">>> Primeiro programa em Java feito com sucesso");
         System.out.println(">>> Vamos programar pesado!!! ");
     }
     
